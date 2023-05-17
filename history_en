@@ -1,0 +1,28 @@
+Apr 2020 — Dec 2020
+Programming learning service(Start up)
+A service that allows users to buy and sell programming learning content without the need for environment development. I was mainly responsible for static coding of all administration and user screens, validation of payment screens, and implementation of component UI using Atomic Design. I also introduced and implemented unit tests using Jest almost entirely on my own.It was a great project that I was assigned to as a new graduate and it gave me a lot of experience.
+(HTML5, CSS3, JavaScript, Vue.js, Webpack, ESLint, Jest, AdobeXD)
+
+Jan 2021
+Creation of a new business website for a major telecommunications company
+Created a website to announce a new project for a major telecommunications company.The main tasks were to create new pages, fix bugs, and modify processing.
+(HTML5, CSS3, JavaScript, Handlebar.js, jQuely, AdobeXD)
+
+Feb 2021 — Mar 2021
+Maintenance and operation of a major recruiting service
+Performed operations and maintenance of a major recruiting firm’s new graduate website using internal tools and legacy technology.
+The massive amount of checklists ensured the highest level of security against minor changes. It was a rather unusual site where we spent more time on that checklist than writing code. (HTML4, Java-based web frameworks)
+
+Apr 2021 — Dec 2021
+Store terminal application development for a major cosmetics manufacturer &
+E-commerce site maintenance for hair and skin care business
+In this project, developed an application to manage customer information in a store.My main task was to create screens, connect APIs, and test them with the latest front-end technologies.
+(Pug, Stylus, JavaScript, Vue.js, Nuxt.js, AdobeXD)
+
+Jan 2022 — Dec 2022
+BtoB services with internal PaaS for microservice development
+(Vue.js, deno, cuelang)
+
+Feb 2023 — Current
+Renewal of food and drink recruitment services
+(React, Next.js, ReactNative, Tailwind)
