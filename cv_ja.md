@@ -76,7 +76,7 @@ React、Next.js、ReactNative、Tailwind、Figma、Confluence
 
 ### 大学生時間割アプリのエンハンス開発
 
-2023年9月～2024年3月 (週1出社)
+2023年9月～2024年3月 (週1出社)  
 React、TypeScript、TailwindCSS、Next.js、Styled-components、Storybook、Jest、MicroCMS、Figma、Confluence、Sentry、Clarity
 - 大学生向け時間割アプリの保守運用と新規機能開発を担当。主に時間割アプリ内の記事画面（WebView上）をNext.jsとMicroCMSを用いて開発。
 - Figmaのワイヤーフレームを基に、記事一覧画面や記事閲覧画面、ボタンやカードなどの共通コンポーネントを実装。
