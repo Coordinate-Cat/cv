@@ -92,3 +92,15 @@ React、TypeScript、TailwindCSS、Next.js、Styled-components、Storybook、Jes
 
 2020年
 近畿大学経済学部総合経済政策学科卒 (大阪府東大阪市)
+
+## Skills
+
+- プログラミング言語: HTML5、CSS3、JavaScript、TypeScript、Pug、Stylus、Vue.js、React、Next.js、TailwindCSS、SASS、jQuery
+- フレームワーク/ライブラリ: Vue.js、Nuxt.js、React、Next.js、ReactNative、Axios、TailwindCSS、Styled-components、Webpack、Handlebar.js、Slick、MicroCMS
+- テスト & ツール: Jest、Puppeteer、Storybook、Visual Regression Testing、E2Eテスト、Jest、Docker、ESLint
+- バージョン管理 & コラボレーション: Git、GitHub、Confluence、Figma、AdobeXD
+- API: REST API、JSON処理、Axios、API統合（CRUD操作）
+- CI/CD & 自動化: 内製SDKを使用したCI/CDパイプライン、Puppeteer、自動テスト、Deno、Cuelang
+- UI/UX & デザイン: Atomic Design、Figma、AdobeXD、コンポーネントベースのUI開発、レスポンシブデザイン、クロスブラウザ対応
+- プロジェクト管理 & ツール: Jira、Sentry、Clarity、Slack
+- フロントエンドビルドシステム & デプロイ: Webpack、Docker、FTPを使用したデプロイ
