@@ -83,3 +83,12 @@ React、TypeScript、TailwindCSS、Next.js、Styled-components、Storybook、Jes
 - MicroCMSのAPIを用いて、記事一覧や記事内容、記事タグなどの取得機能を実装（GET操作）。
 - JestとStorybookを用いた結合テストを実施し、UIの品質を確保。
 - Sentryでの障害検知を基に、エラー修正や障害対応を行い、アプリの安定性を維持。
+
+
+## Education
+
+2015年
+私立智辯学園高等学校卒 (奈良県五條市)
+
+2020年
+近畿大学経済学部総合経済政策学科卒 (大阪府東大阪市)
