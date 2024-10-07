@@ -19,7 +19,7 @@ HTML5、CSS3、JavaScript、Vue.js、Webpack、ESLint、Jest、AdobeXD
 
 ### 大手通信会社向け新規事業サイトの制作
 
-2021年1月 (リモート)
+2021年1月 (リモート)  
 HTML5、CSS3、JavaScript、Handlebar.js、jQuely、AdobeXD
 - 大手通信会社の新規事業告知サイトを制作。新規ページ作成、バグ修正、処理改修を担当しました。
 - Adobe XDのデザインに基づいたコンポーネントUIの実装を行い、データ表示テーブルやテーブル切り替え用ドロップダウンメニュー、Slickを用いたスライダー、CSS Flexboxを使ったレイアウトを担当しました。
@@ -28,7 +28,7 @@ HTML5、CSS3、JavaScript、Handlebar.js、jQuely、AdobeXD
 
 ### 大手人材紹介サービスの保守・運用
 
-2021年2月～2021年3月 (リモート)
+2021年2月～2021年3月 (リモート)  
 HTML4, Java-based Web Framework
 - 大手人材紹介会社の新卒採用サイトの運用・保守を担当。マイナーチェンジにおいても高いレベルのセキュリティを維持するため、膨大な量のチェックリストを使用し、品質を担保しました。
 - コードの処理改修では、文言修正や条件処理の追加、デザイン変更に伴うCSSの追加を実施しました。
@@ -37,7 +37,7 @@ HTML4, Java-based Web Framework
 
 ### 大手化粧品メーカー向け店舗端末アプリ開発
 
-2021年4月～2021年12月 (週2出社)
+2021年4月～2021年12月 (週2出社)  
 Pug、Stylus、JavaScript、Vue.js、Nuxt.js、AdobeXD
 - 店舗で顧客情報を管理するアプリケーションを開発し、最新のフロントエンド技術を用いて画面作成、API接続、テストを担当しました。
 - Adobe XDに基づいたUIコンポーネントの実装では、モーダルやプルダウンなどの共通コンポーネントを担当し、デザイン変更に伴う文言修正や細かなCSS(Stylus)修正も行いました。
@@ -56,7 +56,7 @@ Pug、Stylus、JavaScript、Vue.js、Nuxt.js、AdobeXD
 
 ### マイクロサービス開発のための社内PaaSを利用したBtoBサービス
 
-2022年1月～2022年12月 (週1出社)
+2022年1月～2022年12月 (週1出社)  
 Vue.js、deno、cuelang、Figma、Confluence、Jest、Puppeteer
 - クライアントが運用するネットワークサービスをブラウザ上から制御できるプラットフォームを構築。
 - Figmaのワイヤーフレームを基にAtomsコンポーネントからPagesまでのUIコンポーネントを実装し、グラフライブラリを用いてネットワークトポロジーの可視化を実現。
@@ -67,7 +67,7 @@ Vue.js、deno、cuelang、Figma、Confluence、Jest、Puppeteer
 
 ### 飲食専門求人サービスのリニューアル開発&内部管理システム開発
 
-2023年2月～2023年8月 (週1出社)
+2023年2月～2023年8月 (週1出社)  
 React、Next.js、ReactNative、Tailwind、Figma、Confluence
 - 飲食専門求人サービスのリニューアル開発と、そのネイティブ対応、さらに2つの内部管理システムの開発を同時進行で担当。
 - Figmaのワイヤーフレームを基に、Atomsコンポーネントの実装を行い、管理画面およびネイティブ画面で合計60枚（Web画面30枚、ネイティブ30枚）ほどのUIを実装。
@@ -76,7 +76,7 @@ React、Next.js、ReactNative、Tailwind、Figma、Confluence
 
 ### 大学生時間割アプリのエンハンス開発
 
-2023年9月～2024年3月
+2023年9月～2024年3月 (週1出社)
 React、TypeScript、TailwindCSS、Next.js、Styled-components、Storybook、Jest、MicroCMS、Figma、Confluence、Sentry、Clarity
 - 大学生向け時間割アプリの保守運用と新規機能開発を担当。主に時間割アプリ内の記事画面（WebView上）をNext.jsとMicroCMSを用いて開発。
 - Figmaのワイヤーフレームを基に、記事一覧画面や記事閲覧画面、ボタンやカードなどの共通コンポーネントを実装。
