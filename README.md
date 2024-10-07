@@ -1,4 +1,4 @@
 # cv
 
-- [English Version](./cv_en.txt)
-- [Japanese Version](./cv_ja.txt)
+- [English Version](./cv_en.md)
+- [Japanese Version](./cv_ja.md)
