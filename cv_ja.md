@@ -99,8 +99,8 @@ React、TypeScript、TailwindCSS、Next.js、Styled-components、Storybook、Jes
 - フレームワーク/ライブラリ: Vue.js、Nuxt.js、React、Next.js、ReactNative、Axios、TailwindCSS、Styled-components、Webpack、Handlebar.js、Slick、MicroCMS
 - テスト & ツール: Jest、Puppeteer、Storybook、Visual Regression Testing、E2Eテスト、Jest、Docker、ESLint
 - バージョン管理 & コラボレーション: Git、GitHub、Confluence、Figma、AdobeXD
-- API: REST API、JSON処理、Axios、API統合（CRUD操作）
-- CI/CD & 自動化: 内製SDKを使用したCI/CDパイプライン、Puppeteer、自動テスト、Deno、Cuelang
+- API: REST API、Axios、Ajax
+- CI/CD & 自動化: Puppeteer、Deno、Cuelang
 - UI/UX & デザイン: Atomic Design、Figma、AdobeXD、コンポーネントベースのUI開発、レスポンシブデザイン、クロスブラウザ対応
 - プロジェクト管理 & ツール: Jira、Sentry、Clarity、Slack
 - フロントエンドビルドシステム & デプロイ: Webpack、Docker、FTPを使用したデプロイ
