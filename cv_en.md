@@ -1,3 +1,10 @@
+## Person
+
+Name: Koki Oka  
+Age: 27  
+Sex: Male  
+Mail: tetrapasta02@gmail.com
+
 ## Career Objective
 
 I am a frontend engineer with development experience across a wide range of projects, from startups to large corporations. I have worked on developing dynamic web applications and implementing UI components using modern technologies such as React, Vue.js, and Next.js. I am proficient in introducing tests using Atomic Design and Jest, providing efficient and user-centered solutions. Moving forward, I aim to further improve my technical skills while contributing to valuable projects.
