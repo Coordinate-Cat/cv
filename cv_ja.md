@@ -92,7 +92,7 @@ React、TypeScript、TailwindCSS、Next.js、Styled-components、Storybook、Jes
 - Sentryでの障害検知を基に、エラー修正や障害対応を行い、アプリの安定性を維持。
 
 
-## Education
+## 学歴
 
 2015年
 私立智辯学園高等学校卒 (奈良県五條市)
@@ -102,11 +102,11 @@ React、TypeScript、TailwindCSS、Next.js、Styled-components、Storybook、Jes
 近畿大学経済学部総合経済政策学科卒 (大阪府東大阪市)
 - 男子第80回 関西学生対校駅伝競走大会
 
-## Skills
+## スキル
 
 - プログラミング言語: HTML5、CSS3、JavaScript、TypeScript、Pug、Stylus、Vue.js、React、Next.js、TailwindCSS、SASS、jQuery
-- フレームワーク/ライブラリ: Vue.js、Nuxt.js、React、Next.js、ReactNative、Axios、TailwindCSS、Styled-components、Webpack、Handlebar.js、Slick、MicroCMS
-- テスト & ツール: Jest、Puppeteer、Storybook、Visual Regression Testing、E2Eテスト、Jest、Docker、ESLint
+- フレームワーク/ライブラリ: Vue.js、Nuxt.js、React、Next.js、ReactNative、Axios、TailwindCSS、Styled-components、Webpack、Handlebar.js、MicroCMS
+- テスト & ツール: Jest、Storybook、Jest、Docker、ESLint
 - バージョン管理 & コラボレーション: Git、GitHub、Confluence、Figma、AdobeXD
 - API: REST API、Axios、Ajax
 - CI/CD & 自動化: Puppeteer、Deno、Cuelang
