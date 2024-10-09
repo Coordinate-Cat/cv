@@ -93,11 +93,13 @@ React, TypeScript, TailwindCSS, Next.js, Styled-components, Storybook, Jest, Mic
 
 ## Education
 
-2015  
-Graduated from Chiben Gakuen High School (Nara Prefecture, Gojo City)
+2015
+Graduated from Chiben Gakuen High School (Gojō, Nara)
+- Participated in the 66th National High School Ekiden Championships (Boys' Division)
 
-2020  
-Graduated from Kinki University, Faculty of Economics, Comprehensive Economic Policy Department (Osaka Prefecture, Higashi Osaka City)
+2020
+Graduated from Kindai University, Faculty of Economics, Department of Comprehensive Economics (Higashiōsaka, Osaka)
+- Participated in the 80th Kansai Intercollegiate Ekiden Championships (Boys' Division)
 
 ## Skills
 
