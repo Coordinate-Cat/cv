@@ -104,11 +104,11 @@ Graduated from Kindai University, Faculty of Economics, Department of Comprehens
 ## Skills
 
 - Programming Languages: HTML5, CSS3, JavaScript, TypeScript, Pug, Stylus, Vue.js, React, Next.js, TailwindCSS, SASS, jQuery
-- Frameworks/Libraries: Vue.js, Nuxt.js, React, Next.js, ReactNative, Axios, TailwindCSS, Styled-components, Webpack, Handlebar.js, Slick, MicroCMS
-- Testing & Tools: Jest, Puppeteer, Storybook, Visual Regression Testing, E2E testing, Jest, Docker, ESLint
+- Frameworks/Libraries: Vue.js, Nuxt.js, React, Next.js, ReactNative, Axios, TailwindCSS, Styled-components, Webpack, Handlebar.js, MicroCMS
+- Testing & Tools: Jest, Storybook, Jest, Docker, ESLint
 - Version Control & Collaboration: Git, GitHub, Confluence, Figma, AdobeXD
 - API: REST API, Axios, Ajax
-- CI/CD & Automation: Puppeteer, Deno, Cuelang
+- CI/CD & Automation: Deno, Cuelang
 - UI/UX & Design: Atomic Design, Figma, AdobeXD, Component-based UI development, Responsive Design, Cross-browser compatibility
 - Project Management & Tools: Jira, Sentry, Clarity, Slack
 - Frontend Build System & Deployment: Webpack, Docker, FTP-based deployment
