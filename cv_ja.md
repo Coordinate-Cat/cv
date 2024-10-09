@@ -96,9 +96,11 @@ React、TypeScript、TailwindCSS、Next.js、Styled-components、Storybook、Jes
 
 2015年
 私立智辯学園高等学校卒 (奈良県五條市)
+- 男子第66回 全国高等学校駅伝競走大会
 
 2020年
 近畿大学経済学部総合経済政策学科卒 (大阪府東大阪市)
+- 男子第80回 関西学生対校駅伝競走大会
 
 ## Skills
 
