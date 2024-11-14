@@ -58,7 +58,7 @@ Pug、Stylus、JavaScript、Vue.js、Nuxt.js、AdobeXD
 #### ヘアケア、スキンケア事業者向けECサイトメンテナンス
 
 Pug、Stylus、JavaScript、Vue.js、Nuxt.js、AdobeXD
-- ECサイトの販売システム改修を主でした。
+- ECサイトの販売システム改修が主でした。
 - 最新のフロントエンド技術で画面作成、API接続、テストを行いました。
 
 ### マイクロサービス開発のための社内PaaSを利用したBtoBサービス
